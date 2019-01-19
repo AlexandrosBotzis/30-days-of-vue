@@ -1,6 +1,8 @@
 new Vue({
     el: "#app",
     data: {
-        greeting: "Hello from VueJS",
+        greeting: "Hello VueJS",
+        user: "Alex Botzis",
+        city: "Prague",
     },
 });
